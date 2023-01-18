@@ -1,2 +1,3 @@
 # Art-Evolution-Over-Time
-Se busca entender como ha progresado el arte en la colección de Tate (https://www.tate.org.uk/about-us/collection). 
+The goal of this mini-project is to understand the Tate collection and how it has evolved over time (https://www.tate.org.uk/about-us/collection). 
+I followed some steps from Julia Sigler´s project in https://www.youtube.com/watch?v=-ErHI3MJyDQ&ab_channel=JuliaSilge. 
